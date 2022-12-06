@@ -48,7 +48,6 @@ Software Engineering student at the Schulich School of Engineering who is passio
 <h2  align="center">📌 My Stats</h2>
 <p align="center" justify="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axeloooo&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeloooo&layout=compact"/>
 </p>
 
 <hr>
