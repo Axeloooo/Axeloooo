@@ -1,4 +1,5 @@
-# Hello, I'm Axel! 👋🏻
+<h1 align="center"> Hello, I'm Axel! 👋🏻 </h1>
+<p align="center"> (Open to work)</p>
 
 <h2  align="center">👨🏼‍💻 My Tech Stack</h2>
 
