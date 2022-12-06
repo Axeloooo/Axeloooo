@@ -5,7 +5,7 @@
 
 <h2  align="center">👨🏼‍💻 My Tech Stack</h2>
 
-<p align="justify">
+<p align="center">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -39,7 +39,7 @@
 <hr>
 
 <h2  align="center">👀 About Me</h2>
-<p align="justify">
+<p align="center">
 Software Engineering student at the Schulich School of Engineering who is passionate about using technology to inspire change in the world around me. I love all things related to technology, computers and network. Experienced in C, C++, Java, SpringBoot, Postman, Flutter, Dart, MySQL, Firebase, React JS, Typescript, Javascript, HTML, CSS, SASS, Bootstrap, Docker, Python, Anaconda, Numpy, Matplotlib, Pandas, Scikit-Learn, Scipy, Figma, NPM, Node.JS and Git. Currently working in projects with TechStart involving the development of a mobile app and Relectric involving the development of a car display interface. Minoring in Aerospace Engineering with an upcoming focus in modern aerospace vehicle systems, computer control of aircraft, flight control algorithms and system-level analysis.
 </p>
 
