@@ -36,7 +36,7 @@
 
 <h2  align="center">👀 About Me</h2>
 <p align="center">
-Software Engineering student at the Schulich School of Engineering who is passionate about using technology to inspire change in the world around me. I love all things related to technology, computers and network. Proficient in an assortment of technologies, including AWS, Firebase, React, Express, Typescript, Spring Boot, Java, Flutter, Dart, Anaconda, Python, C, C++, MongoDB, MySQL, Docker and Assembly language. Currently working in projects with TechStart involving the development of a mobile app and Relectric involving the development of a car display interface. Minoring in Aerospace Engineering with an upcoming focus in modern aerospace vehicle systems, computer control of aircraft, flight control algorithms and system-level analysis.
+Software Engineering student at the Schulich School of Engineering who is passionate about using technology to inspire change in the world around me. I love all things related to technology, computers and network. Proficient in an assortment of technologies, including AWS, Firebase, React, Express, Typescript, Spring Boot, Java, Flutter, Dart, Anaconda, Python, C, C++, SASS, MongoDB, MySQL, Docker, Postman. Currently working in projects with TechStart involving the development of a mobile app and Relectric involving the development of a car display interface. Minoring in Aerospace Engineering with an upcoming focus in modern aerospace vehicle systems, computer control of aircraft, flight control algorithms and system-level analysis.
 </p>
 
 <hr>
