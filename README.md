@@ -30,7 +30,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="kubernetes"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jenkins"/>
+  <img src="https://img.shields.io/badge/Packer-02A8EF.svg?style=for-the-badge&logo=Packer&logoColor=white" alt="packer"/>
+  
+  
+  
 </p>
 
 <h4 align="center"> - Mobile Development - </h4>
