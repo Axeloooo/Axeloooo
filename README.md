@@ -5,6 +5,7 @@
 
 <h2  align="center">👨🏼‍💻 My Tech Stack</h2>
 
+<h4> Infrastructure as Code (IaC) </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
