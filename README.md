@@ -3,6 +3,13 @@
 
 <hr>
 
+<h2  align="center">👀 About Me</h2>
+<p align="center">
+Software Engineering student at the Schulich School of Engineering. Minoring in Aerospace Engineering with an upcoming focus in modern aerospace vehicle systems, computer control of aircraft, flight control algorithms and system-level analysis. Proficient in an assortment of technologies, including AWS, Firebase, React, Express, Typescript, Spring Boot, Java, Flutter, Dart, Anaconda, Python, C, C++, SASS, MongoDB, MySQL, Docker and Postman. Currently working in projects with TechStart involving the development of a mobile app and Relectric involving the development of a car display interface.
+</p>
+
+<hr>
+
 <h2  align="center">👨🏼‍💻 My Tech Stack</h2>
 
 <h4 align="center"> - Frontend Development - </h4>
@@ -11,7 +18,7 @@
   <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="react router">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src"https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="saas"/>
 </p>
@@ -72,13 +79,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-</p>
-
-<hr>
-
-<h2  align="center">👀 About Me</h2>
-<p align="center">
-Software Engineering student at the Schulich School of Engineering. Minoring in Aerospace Engineering with an upcoming focus in modern aerospace vehicle systems, computer control of aircraft, flight control algorithms and system-level analysis. Proficient in an assortment of technologies, including AWS, Firebase, React, Express, Typescript, Spring Boot, Java, Flutter, Dart, Anaconda, Python, C, C++, SASS, MongoDB, MySQL, Docker and Postman. Currently working in projects with TechStart involving the development of a mobile app and Relectric involving the development of a car display interface.
 </p>
 
 <hr>
