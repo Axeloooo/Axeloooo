@@ -12,7 +12,7 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
 
 <h2  align="center">👨🏼‍💻 My Tech Stack</h2>
 
-<h4 align="center"> - Frontend Development - </h4>
+<h4 align="center"> - 🎨 Frontend Development - </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
   <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="react router">
@@ -23,7 +23,7 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="saas"/>
 </p>
 
-<h4 align="center"> - Backend Development - </h4>
+<h4 align="center"> - 🔐 Backend Development - </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="express">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
@@ -34,7 +34,7 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java">
 </p>
 
-<h4 align="center"> - Infrastructure as Code (IaC) - </h4>
+<h4 align="center"> - ☁️ Infrastructure as Code (IaC) - </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -45,7 +45,7 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
   <img src="https://img.shields.io/badge/Packer-02A8EF.svg?style=for-the-badge&logo=Packer&logoColor=white" alt="packer"/>
 </p>
 
-<h4 align="center"> - Data Science - </h4>
+<h4 align="center"> - 🧮 Data Science - </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
@@ -56,14 +56,14 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy"/>
 </p>
 
-<h4 align="center"> - Mobile Development - </h4>
+<h4 align="center"> - 📱 Mobile Development - </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase"/>
 </p>
 
-<h4 align="center"> - Databases - </h4>
+<h4 align="center"> - 💾 Databases - </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
@@ -71,7 +71,7 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
 </p>
 
-<h4 align="center"> - Development Tools - </h4>
+<h4 align="center"> - ⚙️ Development Tools - </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
