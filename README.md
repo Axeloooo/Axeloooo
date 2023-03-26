@@ -35,7 +35,7 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-  <img src"https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" alt="macOS">
 </p>
 
 <hr>
