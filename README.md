@@ -1,19 +1,9 @@
 <h1 align="center"> Hello, I'm Axel! 👋🏻 </h1>
-<p align="center"> (Open to work)</p>
-
-<hr>
-
-<h2  align="center">👀 About Me</h2>
-<p align="center">
-Software Engineering student at the Schulich School of Engineering. Minoring in Aerospace Engineering with an upcoming focus in modern aerospace vehicle systems, computer control of aircraft, flight control algorithms and system-level analysis. Proficient in an assortment of technologies, including AWS, Firebase, React, Express, Typescript, Spring Boot, Java, Flutter, Dart, Anaconda, Python, C, C++, SASS, MongoDB, MySQL, Docker and Postman. Currently working in projects with TechStart involving the development of a mobile app and Relectric involving the development of a car display interface.
-</p>
 
 <hr>
 
 <h2  align="center">👨🏼‍💻 My Tech Stack</h2>
-
 <p align="center">
-  
   <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="docker">
@@ -30,6 +20,13 @@ Software Engineering student at the Schulich School of Engineering. Minoring in 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" alt="macOS">
+</p>
+
+<hr>
+
+<h2  align="center">👀 About Me</h2>
+<p align="center">
+Software Engineering student at the Schulich School of Engineering. Minoring in Aerospace Engineering with an upcoming focus in modern aerospace vehicle systems, computer control of aircraft, flight control algorithms and system-level analysis. Proficient in an assortment of technologies, including AWS, Firebase, React, Express, Typescript, Spring Boot, Java, Flutter, Dart, Anaconda, Python, C, C++, SASS, MongoDB, MySQL, Docker and Postman. Currently working in projects with TechStart involving the development of a mobile app and Relectric involving the development of a car display interface.
 </p>
 
 <hr>
