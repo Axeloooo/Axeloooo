@@ -28,7 +28,6 @@
 <h2  align="center">👀 About Me</h2>
 <p align="center">
 I'm a Software Engineering student at the Schulich School of Engineering. My areas of expertise include Infrastructure as Code (IaC), Full Stack Web Development, Data Science, and Mobile Development. I am well-versed in cutting-edge technologies such as CI/CD, Cloud Computing, Containerization and Orchestration, Machine Learning as well as proficient in working with both Relational and Non-Relational Databases, APIs, and Testing. 
-A strong proponent of Agile Methodology, I effectively employ this approach in all my projects, ensuring seamless collaboration and efficient development processes. My proficiency in communication and project management tools like Slack further strengthens my ability to work in dynamic team environments.
 Currently, I am actively involved in projects with TechStart, where I am contributing to the development of an innovative mobile app.
 </p>
 
