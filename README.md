@@ -28,13 +28,6 @@ Currently, I am actively involved in projects with TechStart, where I am contrib
 
 <hr>
 
-<h2  align="center">📌 My Stats</h2>
-<p align="center" justify="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axeloooo&show_icons=true"/>
-</p>
-
-<hr>
-
 <h2  align="center">📬 Reach me on</h2>
 <p align="center">
   <a target="_blank"href=""><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
