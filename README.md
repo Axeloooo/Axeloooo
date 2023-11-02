@@ -1,19 +1,19 @@
 <h1 align="center">Hello, I'm Axel! 👋🏻</h1>
 
 <p align="justify">
-🎓 I'm a third-year Software Engineering student minoring in Aerospace Engineering at the University of Calgary. 
+🎓 I'm a third-year Software Engineering student with a minor in Aerospace Engineering at the University of Calgary. 
 </p>
 
 <p align="justify">
-👨🏼‍💻 During summer 2023 I had the privilege of interning at Sigma as a Software Engineer, where I contributed to the development and maintenance of a Foodservice B2B Ecommerce Platform. My internship at Sigma allowed me to learn the basics of SAP and Azure DevOps as well as improve my knowledge in software architecture and distribution. I honed my expertise in Spring Boot, SQL databases, CI/CD technologies and End-to-end testing. 
+👨🏼‍💻 In summer 2023, I interned at Sigma as a Software Engineer, where I contributed to a B2B Foodservice Ecommerce Platform. This experience deepened my skills in Spring Boot, SQL, CI/CD, and End-to-end testing, and introduced me to SAP and Azure DevOps. 
 </p>
 
 <p align="justify">
-🦖 I currently hold the position of Co-VP Development for the Student Energy University of Calgary Chapter, where I contribute to the development and maintenance of the official website. In addition to this, I conduct interviews for prospective candidates for the junior development positions. Alongside the Chapter’s members, we've also provided consulting to the Faculty of Science at the University of Calgary, offering insights into potential new majors and minors.
+🦖 Currently, I'm Co-VP Development for the Student Energy University of Calgary Chapter. I maintain our official website, interview junior developer candidates, and have consulted with the Faculty of Science on potential new academic programs.
 </p>
 
 <p align="justify">
-📱 Additionally, I've been involved with TechStart UCalgary as a Software Developer since September 2022. During this time, I collaborated with two teams on the development of mobile apps. First, I teamed up with Bandist in the role of a Full-Stack Developer, working on a cross-platform application. This app is designed for music enthusiasts, keeping them notified about the latest concerts of their favorite artists. Then, I moved with Fashion as a Backend/Algorithm Developer, developing a fashion education and consumption application. This app enables users to scan their favourite clothes, informing them if the materials are eco-friendly, and also allows them to browse other clothes within this eco-friendly trend.
+📱 Since September 2022, I've been a Software Developer with TechStart UCalgary. I worked with Bandist on a music notification app and later joined Fashion as a Backend Developer, creating an app that educates users about eco-friendly clothing choices.
 </p>
 
 <h2  align="center">📬 Reach me on</h2>
