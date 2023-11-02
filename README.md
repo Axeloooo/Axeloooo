@@ -13,7 +13,7 @@
 </p>
 
 <p align="justify">
-📱 Additionally, I've been involved with TechStart UCalgary as a Software Developer since September 2022. During this time, I collaborated with two teams on the development of mobile apps. First, I teamed up with Bandist in the role of a Full-Stack Developer, working on a cross-platform application. This app is designed for music enthusiasts, keeping them notified about the latest concerts of their favorite artists. Then, I moved with Fashion as a Backend/Algorithm Developer, developing a fashion education and consumption application. This app enables users to scan their favourite clothes, informing them if the materials are eco-friendly, and also allows them to browse other clothes within this eco-friendly trend.
+📱 Additionally, I've been involved with TechStart UCalgary as a Software Developer since September 2022. During this time, I collaborated with two teams on the development of mobile apps. First, I teamed up with Bandist in the role of a Full-Stack Developer, working on a cross-platform application. Then, I moved with Fashion as a Backend/Algorithm Developer, developing a fashion education and consumption application. 
 </p>
 
 <h2  align="center">📬 Reach me on</h2>
