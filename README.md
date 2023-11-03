@@ -13,7 +13,7 @@
 </p>
 
 <p align="justify">
-📱 Since September 2022, I've been a Software Developer with TechStart UCalgary. I worked with Bandist as a Full-Stack Developer on a music notification app and later joined Fashion as a Backend/Algorithm Developer, creating an app that educates users about eco-friendly clothing choices.
+  📱 Since September 2022, I've been a Software Developer with TechStart UCalgary. I worked with Bandist as a Full-Stack Developer on a music notification app and later joined Fashion as a Backend/Algorithm Developer, creating an app that educates users about eco-friendly clothing choices.
 </p>
 
 <h2  align="center">📬 Reach me on</h2>
