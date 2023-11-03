@@ -1,15 +1,15 @@
 <h1 align="center">Hello, I'm Axel! 👋🏻</h1>
 
 <p align="justify">
-🎓 I'm a third-year Software Engineering student with a minor in Aerospace Engineering at the University of Calgary. 
+🎓 I'm a third-year Software Engineering student minoring in Aerospace Engineering at the University of Calgary. 
 </p>
 
 <p align="justify">
-👨🏼‍💻 In summer 2023, I interned at Sigma as a Software Engineer, where I contributed to a B2B Foodservice Ecommerce Platform. This experience deepened my skills in Spring Boot, SQL, CI/CD, and End-to-end testing, and introduced me to SAP and Azure DevOps. 
+👨🏼‍💻 During summer 2023 I had the privilege of interning at Sigma as a Software Engineer, where I contributed to a B2B Foodservice Ecommerce Platform. This experience honed my knowledge in Spring Boot, SQL, CI/CD, and End-to-end testing, and introduced me to SAP and Azure DevOps. 
 </p>
 
 <p align="justify">
-🦖 Currently, I'm Co-VP Development for the Student Energy University of Calgary Chapter. I maintain our official website, interview junior developer candidates, and have consulted with the Faculty of Science on potential new academic programs.
+🦖 Currently, I'm Co-VP Development for the Student Energy University of Calgary Chapter. I maintain our official website, interview junior developer candidates, and have provided consulting to the Faculty of Science on potential new academic programs.
 </p>
 
 <p align="justify">
