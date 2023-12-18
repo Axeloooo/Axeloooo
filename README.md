@@ -19,6 +19,6 @@
 <h2  align="center">📬 Reach me on</h2>
 <p align="center">
   <a target="_blank"href=""><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/axel-s%C3%A1nchez-a1089b23a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/axel-sanchez-a1089b23a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blanck"href="mailto:axelshz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
