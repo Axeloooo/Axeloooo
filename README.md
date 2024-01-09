@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Axel! 👋🏻</h1>
 
 <p align="justify">
-🎓 I'm a third-year Software Engineering student minoring in Aerospace Engineering at the University of Calgary. 
+🎓 I'm a third-year Software Engineering student at the University of Calgary. 
 </p>
 
 <p align="justify">
