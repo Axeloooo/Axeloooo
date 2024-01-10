@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-👨🏼‍💻 During summer 2023 I had the privilege of interning at Sigma as a Software Engineer, where I contributed to a B2B Foodservice Ecommerce Platform. This experience honed my knowledge in Spring Boot, SQL, CI/CD, and End-to-end testing, and introduced me to SAP and Azure DevOps. 
+👨🏼‍💻 During summer 2023 I had the privilege of interning at Sigma as a Software Engineer, where I contributed to a B2B Food Service E-commerce Platform. This experience honed my knowledge in Spring Boot, SQL, CI/CD, and End-to-end testing, and introduced me to SAP and Azure DevOps. 
 </p>
 
 <p align="justify">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="justify">
-  📱 Since September 2022, I've been a Software Developer with TechStart UCalgary. I worked with Bandist as a Full-Stack Developer on a music notification app and later joined ReThread as a Lead Backend Developer, creating an app educates users about eco-friendly clothing choices through a seamless ecommerce.
+  📱 Since September 2022, I've been a Software Developer with TechStart UCalgary. I worked with the Bandist startup as a Full-Stack Developer on a music notification app and later joined the ReThread startup as a Lead Backend Developer, creating an app educates users about eco-friendly clothing choices through a seamless e-commerce.
 </p>
 
 <h2  align="center">📬 Reach me on</h2>
