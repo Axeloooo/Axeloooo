@@ -6,4 +6,5 @@
 - 🎓 Software Engineering Student at University of Calgary
 - 👨🏼‍💻 Cloud Developer Intern at [Aptum](https://aptum.com/), in Calgary AB
 - 🧰 I build with: `AWS`, `Terraform`, `Kubernetes`, `Spring Boot`, `Java`, `React`, `Typescript`...
+- 🏅 Certified AWS Cloud Practitioner
 - ⚡️ I enjoy football, soccer, playing videogames and lifting weights :)
