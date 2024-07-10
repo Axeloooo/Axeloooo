@@ -1,24 +1,9 @@
-<h1 align="center">Hello, I'm Axel! 👋🏻</h1>
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Axeloooo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/axel-sanchez-a1089b23a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:axelshz@gmail.com)
 
-<p align="justify">
-🎓 I'm a third-year Software Engineering student at the University of Calgary. 
-</p>
-
-<p align="justify">
-👨🏼‍💻 During summer 2023 I had the privilege of interning at Sigma as a Software Engineer, where I contributed to a B2B Food Service E-commerce Platform. This experience honed my knowledge in Spring Boot, SQL, CI/CD, and End-to-end testing, and introduced me to SAP and Azure DevOps. 
-</p>
-
-<p align="justify">
-🦖 Currently, I'm Co-VP Development for the Student Energy University of Calgary Chapter. I maintain our official website, interview junior developer candidates, and have provided consulting to the Faculty of Science on potential new academic programs.
-</p>
-
-<p align="justify">
-  📱 Since September 2022, I've been a Software Developer with TechStart UCalgary. I worked with the Bandist startup as a Full-Stack Developer on a music notification app and later joined the ReThread startup as a Lead Backend Developer, creating an app educates users about eco-friendly clothing choices through a seamless e-commerce.
-</p>
-
-<h2  align="center">📬 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://axelo.me/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/axel-sanchez-a1089b23a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="mailto:axelshz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+- 💼 Feel free to checkout my [portfolio](https://axelo.me) website!
+- 🎓 Software Engineering Student at University of Calgary
+- 👨🏼‍💻 Cloud Developer Intern at [Aptum](https://aptum.com/), in Calgary AB
+- 🧰 I build with: `AWS`, `Terraform`, `Kubernetes`, `Spring Boot`, `Java`, `React`, `Typescript`...
+- ⚡️ I enjoy football, soccer, playing videogames and lifting weights :)
