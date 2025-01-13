@@ -5,6 +5,6 @@
 - 💼 Feel free to checkout my [portfolio](https://axelo.me) website!
 - 🎓 Software Engineering Student at University of Calgary
 - 👨🏼‍💻 Cloud Developer Intern at [Aptum](https://aptum.com/), in Calgary AB
-- 🧰 I build with: `AWS`, `Terraform`, `Kubernetes`, `Spring Boot`, `React`...
+- 🧰 I build with: `Java`, `Go`, `Python`, `TypeScript`, `C#`...
 - 🏅 Certified [AWS Cloud Practitioner](https://www.credly.com/badges/6f786f17-4bd1-48f9-b804-138c8d752e70/)
 - ⚡️ I enjoy football, soccer, playing videogames, lifting weights and muay thai :)
