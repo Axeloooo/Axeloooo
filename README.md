@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/axel-sanchez-a1089b23a/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:axelshz@gmail.com)
 
-- 💼 Feel free to checkout my [portfolio](https://axelo.me) website!
+- 💼 Feel free to checkout my [portfolio](https://portfolio-axelshz-gmailcoms-projects.vercel.app/) website!
 - 🎓 Software Engineering Student at University of Calgary
 - 👨🏼‍💻 Cloud Developer Intern at [Aptum](https://aptum.com/), in Calgary AB
 - 🧰 I build with: `Java`, `Go`, `Python`, `TypeScript`, `C#`...
