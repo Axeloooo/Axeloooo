@@ -5,6 +5,6 @@
 - 💼 Feel free to checkout my [portfolio](https://portfolio-axelshz-gmailcoms-projects.vercel.app/) website!
 - 🎓 Software Engineering Student at University of Calgary
 - 👨🏼‍💻 Cloud Developer Intern at [Aptum](https://aptum.com/), in Calgary AB
-- 📚 Take a look at my [software engineering documentation](https://axeloooo.github.io/mdbook/)!
+- 📚 Take a look at my [software engineering docs](https://axeloooo.github.io/mdbook/)!
 - 🏅 Certified [AWS Cloud Practitioner](https://www.credly.com/badges/6f786f17-4bd1-48f9-b804-138c8d752e70/) and [Azure Fundamentals](https://learn.microsoft.com/en-us/users/axelsnchez-2277/credentials/2ee95ece9f3f4cac?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - ⚡️ I enjoy football, soccer, playing videogames, lifting weights and muay thai :)
