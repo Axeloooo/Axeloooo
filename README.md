@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,bash,c,cs,cpp,css,dart,docker,dotnet,express,fastapi,flutter,gcp,git,github,githubactions,go,html,java,js,jenkins,jest,kubernetes,linux,nodejs,postman,py,pytorch,rabbitmq,react,redis,redux,rust,spring,sklearn,solidity,terraform,ts,vue&perline=10"/>
 </div>
 
-## 📫 Feel free to reach out
+## 📫 Feel Free to Reach Out
 
 <div align="center">
   <a href="https://portfolio-axelshz-gmailcoms-projects.vercel.app/">
