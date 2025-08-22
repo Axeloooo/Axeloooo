@@ -6,9 +6,9 @@
 
 ## 💼 Work Experience
 
-- Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-us/) in Vancouver, BC
-- Cloud Developer Intern at [Aptum](https://aptum.com/) in Calgary, AB
-- Software Engineer Intern at [Sigma](https://sigmafoodserviceus.com/) in Calgary, AB
+- Software Engineer Intern @ [Microsoft](https://www.microsoft.com/en-us/) in Vancouver, BC
+- Cloud Developer Intern @ [Aptum](https://aptum.com/) in Calgary, AB
+- Software Engineer Intern @ [Sigma](https://sigmafoodserviceus.com/) in Calgary, AB
 
 ## 🏅 Certifications
 
