@@ -2,13 +2,17 @@
 
 ## 🎓 Education
 
-- B.Sc. in Software Engineering at University of Calgary (GPA: 3.4)
+- Bachelor of Science in Software Engineering, Schulich School of Engineering, University of Calgary
 
 ## 💼 Work Experience
 
-- Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-us/) in Vancouver, BC
-- Cloud Developer Intern at [Aptum](https://aptum.com/) in Calgary, AB
-- Software Engineer Intern at [Sigma](https://sigmafoodserviceus.com/) in Calgary, AB
+- Software Engineer Intern, [Microsoft](https://www.microsoft.com/en-ca/)
+- Full Stack Engineer (Part-Time), [Agrivanna](https://www.agrivanna.com/)
+- Cloud Developer Intern, [Aptum](https://aptum.com/)
+- Vice-President Software Development, [Student Energy UCalgary](https://studentenergyuofc.org/)
+- Backend Engineer (Part-Time), [ReThread]()
+- Software Engineer Intern, [Sigma](https://sigmafoodserviceus.com/)
+- Frontend Engineer (Part-Time), [Bandist]()
 
 ## 🏅 Certifications
 
