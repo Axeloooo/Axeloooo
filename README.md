@@ -16,8 +16,8 @@
 
 ## 🏅 Certifications
 
-- [AWS Cloud Practitioner](https://www.credly.com/badges/6f786f17-4bd1-48f9-b804-138c8d752e70/)
-- [Azure Fundamentals](https://learn.microsoft.com/en-us/users/axelsnchez-2277/credentials/2ee95ece9f3f4cac?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6f786f17-4bd1-48f9-b804-138c8d752e70/)
+- [Microsoft Certified Azure Fundamentals](https://learn.microsoft.com/en-us/users/axelsnchez-2277/credentials/2ee95ece9f3f4cac?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ## 👨🏼‍💻 Tech Stack I Use
 
