@@ -4,7 +4,7 @@
 
 - Bachelor of Science in Software Engineering, Schulich School of Engineering, University of Calgary
 
-## 💼 Work Experience
+## 💼 Experience
 
 - Software Engineer Intern, [Microsoft](https://www.microsoft.com/en-ca/)
 - Full Stack Engineer (Part-Time), [Agrivanna](https://www.agrivanna.com/)
