@@ -7,12 +7,12 @@
 ## 💼 Experience
 
 - Software Engineer Intern, [Microsoft](https://www.microsoft.com/en-ca/)
-- Full Stack Engineer (Part-Time), [Agrivanna](https://www.agrivanna.com/)
+- Full Stack Engineer Part-Time, [Agrivanna](https://www.agrivanna.com/)
 - Cloud Developer Intern, [Aptum](https://aptum.com/)
 - Vice-President Software Development, [Student Energy UCalgary](https://studentenergyuofc.org/)
-- Backend Engineer (Part-Time), [ReThread]()
+- Backend Engineer Part-Time, [ReThread]()
 - Software Engineer Intern, [Sigma](https://sigmafoodserviceus.com/)
-- Frontend Engineer (Part-Time), [Bandist]()
+- Frontend Engineer Part-Time, [Bandist]()
 
 ## 🏅 Certifications
 
