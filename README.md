@@ -6,6 +6,7 @@
 
 ## 💼 Experience
 
+- Undergraduate Researcher, [University of Calgary](https://schulich.ucalgary.ca/)
 - Software Engineer Intern, [Microsoft](https://www.microsoft.com/en-ca/)
 - Full Stack Engineer Part-Time, [Agrivanna](https://www.agrivanna.com/)
 - Cloud Developer Intern, [Aptum](https://aptum.com/)
