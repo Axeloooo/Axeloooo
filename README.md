@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 
-- Master of Science in Software Engineering, Schulich School of Engineering, University of Calgary
+- Master of Science in Electrical Engineering, Schulich School of Engineering, University of Calgary
 - Bachelor of Science in Software Engineering, Schulich School of Engineering, University of Calgary
 
 ## 💼 Experience
