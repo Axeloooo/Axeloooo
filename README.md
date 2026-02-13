@@ -1,4 +1,4 @@
-# Hi! / Bonjour! / Hola! / Привет! 👋
+# Hi! / Bonjour! / Hola! / Привіт! 👋
 
 ## 🎓 Education
 
