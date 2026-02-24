@@ -2,19 +2,22 @@
 
 ## 🎓 Education
 
-- Master of Science in Electrical Engineering, Schulich School of Engineering, University of Calgary
 - Bachelor of Science in Software Engineering, Schulich School of Engineering, University of Calgary
 
-## 💼 Experience
+## 💼 Work Experience
 
 - Undergraduate Researcher, [University of Calgary](https://schulich.ucalgary.ca/)
 - Software Engineer Intern, [Microsoft](https://www.microsoft.com/en-ca/)
-- Full Stack Engineer Part-Time, [Agrivanna](https://www.agrivanna.com/)
 - Cloud Developer Intern, [Aptum](https://aptum.com/)
+- Software Engineer Intern, [Sigma](https://sigmafoodserviceus.com/)
+
+## 🏆 Leadership Experience
+
+- Full Stack Engineer Part-Time, [Agrivanna](https://www.agrivanna.com/)
 - Vice-President Software Development, [Student Energy UCalgary](https://studentenergyuofc.org/)
 - Backend Engineer Part-Time, [ReThread]()
-- Software Engineer Intern, [Sigma](https://sigmafoodserviceus.com/)
 - Frontend Engineer Part-Time, [Bandist]()
+
 
 ## 🏅 Certifications
 
