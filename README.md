@@ -6,10 +6,13 @@
 
 ## 💼 Work Experience
 
-- Undergraduate Researcher, [University of Calgary](https://schulich.ucalgary.ca/)
 - Software Engineer Intern, [Microsoft](https://www.microsoft.com/en-ca/)
 - Cloud Developer Intern, [Aptum](https://aptum.com/)
 - Software Engineer Intern, [Sigma](https://sigmafoodserviceus.com/)
+
+## 🧪 Research Experience
+
+- Undergraduate Researcher, [University of Calgary](https://schulich.ucalgary.ca/)
 
 ## 🏆 Leadership Experience
 
