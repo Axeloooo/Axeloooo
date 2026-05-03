@@ -16,11 +16,8 @@
 
 ## 🏆 Leadership Experience
 
-- Full Stack Engineer Part-Time, [Agrivanna](https://www.agrivanna.com/)
-- Vice-President Software Development, [Student Energy UCalgary](https://studentenergyuofc.org/)
-- Backend Engineer Part-Time, [ReThread]()
-- Frontend Engineer Part-Time, [Bandist]()
-
+- Founding Engineer, [Agrivanna](https://www.agrivanna.com/)
+- VP Software Development, [Student Energy UCalgary](https://studentenergyuofc.org/)
 
 ## 🏅 Certifications
 
